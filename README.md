@@ -20,12 +20,12 @@ $ docker logs -f mysql
 ```
 mysql -u admin -p
 ```
-check whether it has the database docker_mysql
+check whether it has the database docker_mysql.
 ```
 show databases;
 ```
 
-check whether it has the tables
+check whether it has the tables.
 ```
 use docker_mysql;
 show tables;
