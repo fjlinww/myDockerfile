@@ -1,4 +1,5 @@
-# Deploy mysql database via docker
+## Deploy mysql database via docker
+
 - Build the image
 ```
 $ docker build -t wdf000/mysql . 
