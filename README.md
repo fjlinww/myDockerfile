@@ -37,3 +37,9 @@ check whether it has records.
 select * from t_work;
 ```
 
+## NGINX
+
+```
+sh run.sh
+```
+
