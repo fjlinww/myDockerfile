@@ -1,6 +1,6 @@
 -- MySql 8
 -- Create database
-create database `docker_mysql` default character set utf8 collate utf8_general_ci;
+-- create database `docker_mysql` default character set utf8 collate utf8_general_ci;
 
 use docker_mysql;
 
