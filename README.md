@@ -43,3 +43,8 @@ select * from t_work;
 sh run.sh
 ```
 
+## APACHE
+
+```
+sh start.sh
+```
