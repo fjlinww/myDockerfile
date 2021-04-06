@@ -12,8 +12,6 @@ ENV MYSQL_DATABASE docker_mysql
 ENV MYSQL_USER admin
 ENV MYSQL_PASSWORD 123456
 
-#ENV FILE_0 schema.sql
-
 ENV WORK_PATH /home/mysql
 
 COPY setup.sh /docker-entrypoint-initdb.d
